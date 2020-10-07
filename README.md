@@ -312,7 +312,7 @@ logging.level.org.hibernate=info<br><br>
 jwt.expmin=30<br>
 jwt.salt=MYSALT<br>
 
-# Vue 설정
+# Vue Setting
   - vue create frontend<br>
     1) Manually select features<br>
     2) Router 추가 설정 나머지 default<br>
