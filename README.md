@@ -15,55 +15,55 @@
 
 
 # Vue components Requirements
-(Page One) Main Page<br>
-Logo : Move to mainpage if it has clicked<br>
-Search Bar : Search pictures base on tags<br>
-Log In : Move to login page<br>
-Image and Image Click (Paging & Infinite loading, order by Trend) : Move to page that it has posted <br>
+- (Page One) Main Page<br>
+	- Logo : Move to mainpage if it has clicked<br>
+	- Search Bar : Search pictures base on tags<br>
+	- Log In : Move to login page<br>
+	- Image and Image Click (Paging & Infinite loading, order by Trend) : Move to page that it has posted <br>
 
-(Page Two) Main Page<br>
-Upload : Move to upload page if it have clicked when only if the user is logged in <br>
-Mypage : Move to mypage<br>
-Log Out : Move to main page after log out<br>
+- (Page Two) Main Page<br>
+	- Upload : Move to upload page if it have clicked when only if the user is logged in <br>
+	- Mypage : Move to mypage<br>
+	- Log Out : Move to main page after log out<br>
 
-(Page Three) Main Page<br>
-Search keywords and counting amount of resulting : show keywords and counting amount<br>
+- (Page Three) Main Page<br>
+	- Search keywords and counting amount of resulting : show keywords and counting amount<br>
 
-(Page Four) Log In Page<br>
-Log In : Move to main page after input user email and password<br>
-Sign Up : Move to sign up page<br>
+- (Page Four) Log In Page<br>
+	- Log In : Move to main page after input user email and password<br>
+	- Sign Up : Move to sign up page<br>
 
-(Page Five) Sign Up Page<br>
-Sign Up : Move to main page after input email, nickname, password. if there have same email, then sign up button will be deactivated<br>
+- (Page Five) Sign Up Page<br>
+	- Sign Up : Move to main page after input email, nickname, password. if there have same email, then sign up button will be deactivated<br>
 
-(Page Six) Upload Page<br>
-Image Upload : Get Image if it has been clicked<br>
-Post : Move to main page after input tags and pictures<br>
+- (Page Six) Upload Page<br>
+	- Image Upload : Get Image if it has been clicked<br>
+	- Post : Move to main page after input tags and pictures<br>
 
-(Page Seven) My Page<br>
-Show Profile Inform : Show information that has been updated by user<br>
-Show Favorites : Show pictures that has been selected by user<br>
-Update Profile Inform : Move to profile update page if it has been clicked<br>
-Click Image : Move to post that linked with picture<br>
-Show Follow : Show user that you followed<br>
-(Extension function) Search : Search only on my posts <br>
+- (Page Seven) My Page<br>
+	- Show Profile Inform : Show information that has been updated by user<br>
+	- Show Favorites : Show pictures that has been selected by user<br>
+	- Update Profile Inform : Move to profile update page if it has been clicked<br>
+	- Click Image : Move to post that linked with picture<br>
+	- Show Follow : Show user that you followed<br>
+	- (Extension function) Search : Search only on my posts <br>
 
-(Page Eight) Favorite page<br>
-Click Image : Move to post that linked with picture<br>
-(Extension function) Search : Search only on my posts<br>
+- (Page Eight) Favorite page<br>
+	- Click Image : Move to post that linked with picture<br>
+	- (Extension function) Search : Search only on my posts<br>
 
-(Page Nine) Update Profile Inform<br>
-Update Inform : Move to my page after input user inform<br>
-Update Sns Links : Move to my page after input SNS links<br>
-Delete Account : Move to main page after delete account<br>
+- (Page Nine) Update Profile Inform<br>
+	- Update Inform : Move to my page after input user inform<br>
+	- Update Sns Links : Move to my page after input SNS links<br>
+	- Delete Account : Move to main page after delete account<br>
 
-(Page Ten) Other Users Post <br>
-Follow Button : Follow user that linked with picture<br>
-Like Button : Increase amount of 'LIKE' that linked with picture after it has been clicked <br>
-Favotrite Button : Register favorite picture <br>
-Download Button : Download picture <br>
-Copy Link Button : Copy link<br>
-Show Like : Show amount of 'LIKE' that linked with picture <br>
+- (Page Ten) Other Users Post <br>
+	- Follow Button : Follow user that linked with picture<br>
+	- Like Button : Increase amount of 'LIKE' that linked with picture after it has been clicked <br>
+	- Favotrite Button : Register favorite picture <br>
+	- Download Button : Download picture <br>
+	- Copy Link Button : Copy link<br>
+	- Show Like : Show amount of 'LIKE' that linked with picture <br>
 
 # FrontEnd Structure 
 Because of spirit of adventure, we have used MPA structure with Vue_CLI single file component
