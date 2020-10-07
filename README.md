@@ -95,7 +95,7 @@ Because of spirit of adventure, we have used MPA structure with Vue_CLI single f
 - Slf4j
 - Maven
 - Java 8
-- RestAPI
+- Rest Contoller
 
 
 - methods to fix error 
