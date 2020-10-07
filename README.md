@@ -84,7 +84,7 @@ Because of spirit of adventure, we have used MPA structure with Vue_CLI single f
 - Vue CLI
 - Axios
 - JS
-- ESLint
+
 
 # BackEnd Structure
 ![BackEnd](https://github.com/byungs2/IMG/blob/master/SpringBootStructure.png)
@@ -161,6 +161,7 @@ Because of spirit of adventure, we have used MPA structure with Vue_CLI single f
 	- issue
 	- project
 	- pull request
+- ESLint
 - Kakao Oven
 - Zoom
 - https://whereby.com/
