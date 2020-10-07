@@ -19,7 +19,7 @@
 - SNS web service based on image memes
 
 
-# Vue components Requirements
+# Requirements of service
 - (Page One) Main Page<br>
 	- Logo : Move to mainpage if it has clicked<br>
 	- Search Bar : Search pictures base on tags<br>
