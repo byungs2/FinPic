@@ -1,8 +1,8 @@
 # FinPic
 
-# Notice
+### Notice
 - devBH1.03 and Vue WithCSS are most recent working tree
-- if you want to take a look saurce of this project, you should change branch to dev H1.03 and Vue With CSS
+- If you want to take a look saurce of this project, you should change branch to dev H1.03 and Vue With CSS
 
 # Team Members
 - 이병헌 (Project Manager)
