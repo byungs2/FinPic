@@ -29,8 +29,6 @@ Because of spirit of adventure, we have used MPA structure with Vue_CLI single f
 # Skill set using in backend
 - Framework : Spring boot
 - Spring JPA
-- Scheduler
-- Interceptor
 - MVC pattern
 - Oracle DB
 - Slf4j
@@ -47,6 +45,54 @@ Because of spirit of adventure, we have used MPA structure with Vue_CLI single f
 	- PostMan
 	- Swagger
 
+# Implemented functions
+- Main Page
+
+![FrontEnd](https://github.com/byungs2/IMG/blob/master/Finpicmain.png)
+![FrontEnd](https://github.com/byungs2/IMG/blob/master/allView.png)
+
+- Sign Up
+
+![FrontEnd](https://github.com/byungs2/IMG/blob/master/signup.png)
+
+
+- Log In
+
+![FrontEnd](https://github.com/byungs2/IMG/blob/master/login.png)
+
+- MyPage
+
+![FrontEnd](https://github.com/byungs2/IMG/blob/master/Otherspage.png)
+![FrontEnd](https://github.com/byungs2/IMG/blob/master/SearchInmyPage.png)
+![FrontEnd](https://github.com/byungs2/IMG/blob/master/mypage.png)
+![FrontEnd](https://github.com/byungs2/IMG/blob/master/mypost.png)
+![FrontEnd](https://github.com/byungs2/IMG/blob/master/otheronespage.png)
+![FrontEnd](https://github.com/byungs2/IMG/blob/master/followList.png)
+
+
+- Upload
+
+![FrontEnd](https://github.com/byungs2/IMG/blob/master/FinpicUpload.png)
+![FrontEnd](https://github.com/byungs2/IMG/blob/master/FinUploadDog.png)
+
+- Like & Report & Favorite
+
+![FrontEnd](https://github.com/byungs2/IMG/blob/master/LikeReportFavorite.png)
+
+- Tag
+
+![FrontEnd](https://github.com/byungs2/IMG/blob/master/SearchInmyPage.png)
+
+- Search based on Tags
+
+![FrontEnd](https://github.com/byungs2/IMG/blob/master/searchPic.png)
+
+- Delete picture
+
+![FrontEnd](https://github.com/byungs2/IMG/blob/master/deletePic.png)
+
+# Teamwork on github
+![board](https://github.com/byungs2/IMG/blob/master/board.png)
 
 # Notice for Teamwork
 # swagger API 문서화
