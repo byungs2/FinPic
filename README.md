@@ -264,32 +264,32 @@ new Vue({<br>
   - Vuex 추가 설정 
     
 # Vue components Requirements
-(Page One)Main Page<br>
+(Page One) Main Page<br>
 Logo : Move to mainpage if it has clicked<br>
 Search Bar : Search pictures base on tags<br>
 Log In : Move to login page<br>
 Image and Image Click (Paging & Infinite loading, order by Trend) : Move to page that it has posted <br>
 
-(Page Two)Main Page<br>
+(Page Two) Main Page<br>
 Upload : Move to upload page if it have clicked when only if the user is logged in <br>
 Mypage : Move to mypage<br>
 Log Out : Move to main page after log out<br>
 
-(Page Three)Main Page<br>
+(Page Three) Main Page<br>
 Search keywords and counting amount of resulting : show keywords and counting amount<br>
 
-(Page Four)Log In Page<br>
+(Page Four) Log In Page<br>
 Log In : Move to main page after input user email and password<br>
 Sign Up : Move to sign up page<br>
 
-(Page Five)Sign Up Page<br>
+(Page Five) Sign Up Page<br>
 Sign Up : Move to main page after input email, nickname, password. if there have same email, then sign up button will be deactivated<br>
 
-(Page Six)Upload Page<br>
-Image Upload : Get Image if it has clicked<br>
+(Page Six) Upload Page<br>
+Image Upload : Get Image if it has been clicked<br>
 Post : Move to main page after input tags and pictures<br>
 
-(Page Seven)My Page<br>
+(Page Seven) My Page<br>
 Show Profile Inform : Show information that has been updated by user<br>
 Show Favorites : Show pictures that has been selected by user<br>
 Update Profile Inform : Move to profile update page if it has been clicked<br>
@@ -297,19 +297,19 @@ Click Image : Move to post that linked with picture<br>
 Show Follow : Show user that you followed<br>
 (Extension function) Search : Search only on my posts <br>
 
-(Page Eight)Favorite page<br>
-이미지 클릭 : 그 이미지를 게시한 게시글로 들어감(마이페이지의 이미지 클릭과는 다름)<br>
-(확장)검색 : 내가 올린 게시글 중에 검색 가능<br>
+(Page Eight) Favorite page<br>
+Click Image : Move to post that linked with picture<br>
+(Extension function) Search : Search only on my posts<br>
 
-10페이지(개인정보 수정)<br>
-Save(개인정보 수정) : 닉네임, 이메일, 사용자 설명 값을 받고, save 클릭시 마이페이지로 이동<br>
-Save(SNS address) : 각각의 SNS 주소값을 받고, save 클릭시 마이페이지로 이동<br>
-계정 삭제 : 클릭시 계정 삭제되고 메인페이지로 이동<br>
+(Page Nine) Update Profile Inform<br>
+Update Inform : Move to my page after input user inform<br>
+Update Sns Links : Move to my page after input SNS links<br>
+Delete Account : Move to main page after delete account<br>
 
-11페이지(다른 사람 게시물)<br>
-follow : 이 게시글을 올린 유저를 follow함, 그 유저는 follower 증가<br>
-like : 좋아요 선택, 게시글은 좋아요 수 늘어남<br>
-Favotrite : 클릭시 Favorite 새로 등록<br>
-Download : 다운로드하게 함<br>
-Copy link : 링크 복사해줌<br>
-조회수 : 이 글의 like 수를 보여줌<br>
+(Page ten) Other Users Post <br>
+Follow Button : Follow user that linked with picture<br>
+Like Button : Increase amount of 'LIKE' that linked with picture after it has been clicked <br>
+Favotrite Button : Register favorite picture <br>
+Download Button : Download picture <br>
+Copy Link Button : Copy link<br>
+Show Like : Show amount of 'LIKE' that linked with picture <br>
