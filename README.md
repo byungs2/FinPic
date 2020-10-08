@@ -2,7 +2,7 @@
 
 ### Notice
 - devBH1.03 and VueWithCSS are most recent working tree
-- If you want to take a look saurce of this project, you should change branch to devBH1.03 and VueWithCSS
+- If you want to take a look at source of this project, you should change branch to devBH1.03 and VueWithCSS
 	- https://github.com/byungs2/Finpic_vue/tree/VueWithCSS
 	- https://github.com/byungs2/FinPic/tree/devBH1.03
 # Team Members
