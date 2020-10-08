@@ -21,13 +21,13 @@
 
 # Requirements of service
 - (Page One) Main Page<br>
-	- Logo : Move to mainpage if it has clicked<br>
-	- Search Bar : Search pictures base on tags<br>
+	- Logo : Move to mainpage if it has been clicked<br>
+	- Search Bar : Search pictures based on tags<br>
 	- Log In : Move to login page<br>
-	- Image and Image Click (Paging & Infinite loading, order by Trend) : Move to page that it has posted <br>
+	- Image and Image Click (Paging & Infinite loading, order by Trend) : Move to page that it has been posted <br>
 
 - (Page Two) Main Page<br>
-	- Upload : Move to upload page if it have clicked when only if the user is logged in <br>
+	- Upload : Move to upload page if it is clicked when only if the user has logged in <br>
 	- Mypage : Move to mypage<br>
 	- Log Out : Move to main page after log out<br>
 
